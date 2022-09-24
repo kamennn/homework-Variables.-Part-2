@@ -93,5 +93,6 @@ public class Main {
         float annualIncomeIncreased3 = ((float)kristina / 100) * 10;
         float kristinaNowReceives = annualIncomeIncreased3 + kristina;
         System.out.println("Кристина теперь получает " + kristinaNowReceives + " рублей. Годовой доход вырос на " + annualIncomeIncreased3 + " рублей");
+
     }
 }
